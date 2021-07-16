@@ -15,4 +15,4 @@
    | Documentary| 0.18       | 0.13         | 80%          |
    | Drama      | 0.14       | 0.22         | 51%          |
    
--**Personal contribution** : Worked on data pre-processing majorly.
+- **Personal contribution** : Worked on data pre-processing essential for the model.
